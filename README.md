@@ -1,7 +1,7 @@
 Hi 👋 My name is Tahsin.
 ========================
 
-Front-end Developer
+I'm working to be Front-end developer.
 -------------------
 
 * 🌍  I'm based in Izmir.
