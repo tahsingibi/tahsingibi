@@ -1,5 +1,6 @@
 # `hi!👋`
-my name is **tahsin**
+my name is **tahsin**.
+
 i'm a front-end developer, living in izmir/turkey. i'm currently working on [sungur.dev](https://sungur.dev) by the way i'm learning react and next.js.
 
 see you next projects ^^
