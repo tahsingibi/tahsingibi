@@ -8,3 +8,5 @@ see you next projects ^^
 
 ### `my links`
 [twitter](https://twitter.com/tahsingibi) - [blog](https://tahsinbey.com) - [mail](mailto:mtahsinsungur@gmail.com)
+
+![VIEW](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftahsingibi%2Ftahsingibi&label=VIEW&countColor=%23263759&style=flat-square&labelStyle=upper)
